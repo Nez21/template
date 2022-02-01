@@ -16,4 +16,3 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/yosssi/ace v0.0.5
 )
-
